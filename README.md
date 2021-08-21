@@ -1,7 +1,6 @@
 # TemperatureCalculator
 converts temperature between Celsius and Fahrenheit after taking data from a text document.
 
-What did you do particularly well?
 This program was particularly interesting because it taught me the basics of utilizing line by line data interpretation with CPP from an outside document.
 There are many available points of improvement on this program.  Pop out menu with interactable buttons and sleek UI.  Allowing the history of temperatures to be recorded etc.
 Several hurdles occured while developing this particular program.  Namely utilizing the IO streams to process text from a document.  This was solved by simply rereading my textbook and activities from the current lesson and using critical analysis to solve any error messages I recieved. 
